@@ -3,3 +3,4 @@ Help for machine learning on python. This library will provide surveral function
 
 ## Introduction
 
+Ce fichier expliquera l'utilisation du package.
