@@ -3,4 +3,7 @@ Help for machine learning on python. This library will provide surveral function
 
 ## Introduction
 
-Ce fichier expliquera l'utilisation du package. Ce sera une très belle expérience pour vous. Vous allez apprécier
+Ce fichier expliquera l'utilisation du package. Ce sera une très belle expérience pour vous. 
+Vous y trouverez plusieurs fonctions utiles qui vous permettront de bien traivailler certains process.
+
+Petite modification 
